@@ -6,6 +6,11 @@ html {
 	box-sizing: inherit;
 }
 
+html,
+body {
+	height:100%;
+}
+
 @font-face {
 	font-family: "TTLakes-Regular";
 	src:
